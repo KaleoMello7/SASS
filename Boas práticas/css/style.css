@@ -1,17 +1,1 @@
-/* Error: Can't find stylesheet to import.
- *   ,
- * 1 | @import "."
- *   |         ^^^
- *   '
- *   sass\style.scss 1:9  root stylesheet */
-
-body::before {
-  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
-      "Droid Sans Mono", monospace, monospace;
-  white-space: pre;
-  display: block;
-  padding: 1em;
-  margin-bottom: 1em;
-  border-bottom: 2px solid black;
-  content: "Error: Can't find stylesheet to import.\a   \2577 \a 1 \2502  @import \".\"\d\a   \2502          ^^^\a   \2575 \a   sass\\style.scss 1:9  root stylesheet";
-}
+#title-home{font-size:44px;font-family:sans-serif}.btn{width:95px;padding:10px 0px;background-color:#0a092c;color:#fff;display:block;margin-top:10px}#cadastro-text{color:red;font-size:16px;font-family:sans-serif}.container p{color:#0a092c;font-size:22px;font-family:Arial}/*# sourceMappingURL=style.css.map */
